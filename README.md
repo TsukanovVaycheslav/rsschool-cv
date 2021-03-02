@@ -1,2 +1,6 @@
-# tsukanovvaycheslav-JSFE2021Q1
-Private repository for @tsukanovvaycheslav
+
+You can find my CV [at the following link](https://tsukanovvaycheslav.github.io/rsschool-cv/)
+
+
+
+
